@@ -17,7 +17,6 @@
 
 [こちらを参照](https://github.com/room202/java?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E6%A7%8B%E7%AF%89%E6%89%8B%E9%A0%86)
 
-- 設定
 - 拡張機能を追加
   - MySQL(cweijan.vscode-mysql-client2)
 
@@ -31,10 +30,10 @@
       - 「Linux用windowsサブシステム」
       - 「仮想マシンプラットフォーム」
   - x64マシン用WSL2 Linuxカーネル更新プログラムパッケージのダウンロードとインストール
-    - 下記ファイルをダウンロードしてインストールする 
+    - 下記ファイルをダウンロードしてインストールする  
     [https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
 
-- Docker のインストール 
+- Docker のインストール  
 [http://docs.docker.com/desktop/install/windows-install/](http://docs.docker.com/desktop/install/windows-install/)
 
  ### Dockerの起動コマンド
