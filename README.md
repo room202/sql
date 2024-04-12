@@ -49,8 +49,7 @@ docker compose up -d
 docker compose down
 ```
 
-- phpMyAdminへアクセスする
-
+- phpMyAdminへアクセスする  
 [http://localhost/](http://localhost/)
 
 ## ソースコードの保存場所
