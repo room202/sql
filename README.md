@@ -22,21 +22,9 @@
 
 ###  Docker インストール
 
-- 事前準備
-  - Windowsの機能の有効化
-    - Windowsスタートボタンの右横にある検索バーで「Windowsの機能の有効化または無効化」と検索する
-    - 検索にヒットした「Windowsの機能の有効化または無効化」をクリックして起動する
-    - 下記項目のチェックをONにする
-      - 「Linux用windowsサブシステム」
-      - 「仮想マシンプラットフォーム」
-  - x64マシン用WSL2 Linuxカーネル更新プログラムパッケージのダウンロードとインストール
-    - 下記ファイルをダウンロードしてインストールする  
-    [https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi)
+[こちらを参照](https://github.com/room202/docker/)
 
-- Docker のインストール  
-[http://docs.docker.com/desktop/install/windows-install/](http://docs.docker.com/desktop/install/windows-install/)
-
- ### Dockerの起動コマンド
+### docker-sqlの起動コマンド
 
  ```bash
 # Docker設定ファイルのあるフォルダに移動
@@ -49,7 +37,7 @@ docker compose up -d
 docker compose down
 ```
 
-- phpMyAdminへアクセスする  
+### phpMyAdminへアクセスする  
 [http://localhost/](http://localhost/)
 
 ## ソースコードの保存場所
