@@ -2,7 +2,7 @@
 
 ## 使用するテキスト
 
-[スッキリわかるSQL入門 第4版 ドリル256問付き！](https://book.impress.co.jp/books/1123101107)
+[スッキリわかるSQL入門 第4版 ドリル256問付き！](https://book.impress.co.jp/books/1123101107){:target="_blank"}
 
 ## 開発環境
 
@@ -15,14 +15,14 @@
 
 ###  Visual Studio Codeインストール
 
-[こちらを参照](https://github.com/room202/vscode/)
+[こちらを参照](https://github.com/room202/vscode/){:target="_blank"}
 
 - 拡張機能を追加
   - MySQL(cweijan.vscode-mysql-client2)
 
 ###  Dockerインストール
 
-[こちらを参照](https://github.com/room202/docker/)
+[こちらを参照](https://github.com/room202/docker/){:target="_blank"}
 
 ## ソースコードの保存場所
 
