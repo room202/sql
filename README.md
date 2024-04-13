@@ -15,7 +15,7 @@
 
 ###  Visual Studio Code インストール
 
-[こちらを参照](https://github.com/room202/java?tab=readme-ov-file#%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83%E3%81%AE%E6%A7%8B%E7%AF%89%E6%89%8B%E9%A0%86)
+[こちらを参照](https://github.com/room202/vscode/)
 
 - 拡張機能を追加
   - MySQL(cweijan.vscode-mysql-client2)
