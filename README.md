@@ -2,7 +2,7 @@
 
 ## 使用するテキスト
 
-[スッキリわかるSQL入門 第4版 ドリル256問付き！](https://book.impress.co.jp/books/1123101107){:target="_blank"}
+<a href="https://book.impress.co.jp/books/1123101107" target="_blank">スッキリわかるSQL入門 第4版 ドリル256問付き！</a>
 
 ## 開発環境
 
