@@ -28,7 +28,8 @@
 
 `C:\work\sql`
 
-※当該フォルダが無ければ作る
+> [!IMPORTANT]
+> 当該フォルダが無ければ作る
 
 ## Dockerの起動方法
 
@@ -175,7 +176,8 @@ INSERT INTO `家計簿` (`日付`, `費目`, `メモ`, `入金額`, `出金額`)
 ![](images/vsc_ext004.png)
 
 `Create Connection`をクリック  
-※Dockerが起動してphpMyAdminが表示されている事が前提　　
+> [!IMPORTANT]
+> Dockerが起動してphpMyAdminが表示されている事が前提  
 ![](images/vsc_ext005.png)
 
 `Password`にlightboxのパスワードを入力して、「+ Connect」をクリック  
