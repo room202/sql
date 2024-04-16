@@ -30,6 +30,8 @@
 
 ※当該フォルダが無ければ作る
 
+分からない人は[こちら](https://github.com/room202/work-dir-prepare)を参照
+
 ## Dockerの起動方法
 
 ### Dockerに必要なファイルを用意 (1回だけやればOK)
