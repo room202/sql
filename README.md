@@ -92,7 +92,7 @@ docker compose up -d
 docker compose down
 ```
 
-## 授業用のデータベース作成 (初回のみ実施)
+## 授業用のデータベース作成 (1回だけやればOK)
 
 ### phpMyAdminへアクセスする  
 
